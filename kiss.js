@@ -1,4 +1,4 @@
-// Commit test
+// Commit test REGISTER REGISTER REGISTER
 // SORTEAZA ARRAY CRESCATOR
 let array = [5, 2, 3, 4];
 
